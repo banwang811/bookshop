@@ -1,0 +1,9 @@
+<?php
+  include_once('bdb_fns.php');
+  include_once('bdata_valid_fns.php');
+  include_once('boutput_fns.php');
+  include_once('bbook_fns.php');
+  include_once('buser_auth_fns.php');
+  include_once('badmin_fns.php');
+  include_once('border_fns.php');
+?>
